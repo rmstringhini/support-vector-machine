@@ -57,3 +57,5 @@ How SVM works:
      - if _f(x) > 0_: classify as +1
      - if _f(x) < 0_: classify as -1
 
+
+![SVM2](https://github.com/user-attachments/assets/dd402566-a24d-431e-9172-74f5fbec3c47)
